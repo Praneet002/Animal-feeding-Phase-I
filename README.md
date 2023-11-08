@@ -82,6 +82,9 @@ public class moveforward : MonoBehaviour
 ```
 
 ## Output:
+![Exp 4](https://github.com/Praneet002/Animal-feeding-Phase-I/assets/94308200/e50141fd-f401-4dbb-827a-7ed0162a37d2)
+
+![exp4](https://github.com/Praneet002/Animal-feeding-Phase-I/assets/94308200/c2e375c7-bb49-4329-864f-3a63b2272230)
 
 
 ## Result:
